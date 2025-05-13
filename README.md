@@ -1,2 +1,2 @@
-# Boop-Swap-Sniper
-BoopSwap, Sniper, BoopSwap Buy, BoopSwap Sell SOON!!!
+# Boop-DEX-Sniper
+Boop, Sniper, Boop Buy, Boop Sell SOON!!!
